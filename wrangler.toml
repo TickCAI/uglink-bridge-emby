@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://ug.link/cloudtv"
 PORT = "36969"
-USERNAME = "qiuye"
+USERNAME = "cloudtv"
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
